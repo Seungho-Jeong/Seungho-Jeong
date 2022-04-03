@@ -5,13 +5,13 @@
 
 ### 🌱 Cards
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Seungho-Jeong&show_icons=True&hide=issues&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungho-Jeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungho-Jeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### 📫 How to reach me
 <a href="https://Seungho-Jeong.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </a>
-<a href="https://www.notion.so/SEUNGHO-JEONG-63ca2e899c804f65ba1ec3be30a82022" target="_blank">
+<a href="https://seungho-jeong.notion.site" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio in Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
 <a href="mailto:sh007.jeong@gmail.com" target="_blank">
